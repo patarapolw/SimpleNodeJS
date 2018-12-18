@@ -1,0 +1,23 @@
+{
+  "name": "simplenodejs",
+  "version": "0.1.0",
+  "description": "How I approach Node.js from knowing classical JavaScript (i.e. client-side)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pacharapol Withayasakpunt",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.11.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patarapolw/SimpleNodeJS.git"
+  }
+}
