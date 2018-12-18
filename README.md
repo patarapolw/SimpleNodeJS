@@ -2,6 +2,8 @@
 
 I use this repo as a note on how I approach Node.js from classical JavaScript (i.e. client-side).
 
+I have move to TypeScript, at least temporarily, here <https://github.com/patarapolw/SimpleTypeScript>.
+
 ## Installation
 
 - Get Node.js from <https://nodejs.org/en/>
@@ -73,10 +75,4 @@ And importing script is as simple as,
 
 ```javascript
 > require('./script.js')
-```
-
-Exiting the REPL is,
-
-```javascript
-> .exit
 ```
